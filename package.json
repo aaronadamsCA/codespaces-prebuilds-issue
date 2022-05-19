@@ -1,0 +1,14 @@
+{
+  "engines": {
+    "node": "16.15.0"
+  },
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "@babel/core": "7.17.12",
+    "@babel/eslint-parser": "7.17.0",
+    "@babel/preset-env": "7.17.12",
+    "eslint": "8.15.0",
+    "eslint-config-prettier": "8.5.0",
+    "prettier": "2.6.2"
+  }
+}

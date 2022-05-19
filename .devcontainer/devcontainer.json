@@ -1,0 +1,6 @@
+{
+  "name": "Codespaces Issue Demo",
+  "image": "ghcr.io/shopnishe/nishe-web-apps/devcontainer:latest",
+  "remoteUser": "vscode",
+  "updateContentCommand": ".devcontainer/update-content.sh"
+}
